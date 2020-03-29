@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: NZ Talk
+title: 达途网 | Datum NZ
 featuredImage: 'https://ucarecdn.com/88a9a84a-93f7-47aa-be3b-ea1810c2192f/'
-subtitle: 纽村杂谈
+subtitle: 心系白云故乡 未来达成所愿
 accordion: []
 meta:
   description: Welcome to NZ Talk
