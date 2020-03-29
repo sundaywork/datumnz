@@ -6,6 +6,8 @@ title: >-
 status: Published
 date: 2020-03-29T12:09:39.573Z
 excerpt: aa
+categories:
+  - category: News
 ---
 An Auckland mother has shared her distress after her family were verbally abused and left in tears during a walk on her local beach on Saturday morning.
 
