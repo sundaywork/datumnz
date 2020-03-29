@@ -2,9 +2,10 @@
 template: BlogIndex
 slug: blog
 title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
+featuredImage: 'https://ucarecdn.com/3478c3f1-47b1-49ef-be21-a2d15cb5566d/'
 subtitle: This is the blog page subtitle.
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: 照亮生活
+  title: 纽村资讯
 ---
+
