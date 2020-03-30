@@ -1,12 +1,15 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #e6471a;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
+  --hover: #b3d670;
+  --balanced: #27b1ce;
   --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  /* https://zenozeng.github.io/fonts.css/ */
+  --font-system: -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;/* system-ui;  postcssPresetEnv */
   --borderRadius: 3px;
 }
 
@@ -49,7 +52,7 @@ body {
 a {
   color: var(--primary);
 }
-
+  
 strong {
   font-weight: 600;
 }

@@ -26,7 +26,7 @@
 }
 
 .PostCard--Content {
-  padding: 0 2.5rem 2.5rem;
+  padding: 0 2.0rem 2.0rem;
 }
 
 .PostCard--Category {
@@ -34,4 +34,11 @@
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;
+  color: var(--balanced);
 }
+
+.PostCard--Excerpt {
+  font-size: 1.4rem;
+  
+}
+  
