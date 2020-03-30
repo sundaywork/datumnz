@@ -7,8 +7,8 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://koru.kiwi/">Koru International</a>.
+          © Copyright {new Date().getFullYear()} 达途网 版权所有. {' '}
+          <a href="https://koru.kiwi/">银蕨国际</a>提供技术支持.
         </span>
       </div>
     </footer>
