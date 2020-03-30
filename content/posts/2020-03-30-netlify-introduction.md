@@ -2,7 +2,7 @@
 template: SinglePost
 title: Netlify Introduction
 status: Published
-date: 2020-03-30T09:01:49.453Z
+date: '2020-03-29'
 excerpt: >-
   Netlify CMS is an open-source content management system for your Git workflow
   that enables you to provide editors with a friendly UI and intuitive
