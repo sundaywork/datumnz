@@ -49,8 +49,8 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
+            <NavLink to="/">主页</NavLink>
+            <NavLink to="/components/">数据</NavLink>
             <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -66,7 +66,7 @@ export class Navigation extends Component {
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
               >
-                Blog
+                观点
                 <div className="Nav--GroupLinks">
                   <NavLink to="/blog/" className="Nav--GroupLink">
                     All Posts
@@ -84,7 +84,7 @@ export class Navigation extends Component {
               </span>
             </div>
             <NavLink to="/default/">Default</NavLink>
-            <NavLink to="/contact/">Contact</NavLink>
+            <NavLink to="/contact/">联系我们</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
