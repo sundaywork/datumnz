@@ -2,7 +2,7 @@
 template: SinglePost
 title: 疫情对全球跨境投资影响分析
 status: Published
-date: 2020-03-29T22:18:17.280Z
+date: '2020-03-30'
 featuredImage: 'https://ucarecdn.com/ea8f19dc-f99d-4e95-8700-4a9b2629a891/'
 excerpt: 疫情对全球跨境投资影响分析
 categories:
