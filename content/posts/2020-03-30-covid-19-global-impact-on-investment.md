@@ -1,14 +1,15 @@
 ---
-template: SinglePost
 title: 疫情对全球跨境投资影响分析
+date: 2020-03-30 00:00:00 Z
+template: SinglePost
 status: Published
-date: '2020-03-30'
-slug: 'covid-19-global-impact-on-investment'
-featuredImage: 'https://ucarecdn.com/ea8f19dc-f99d-4e95-8700-4a9b2629a891/'
+slug: covid-19-global-impact-on-investment
+featuredImage: https://ucarecdn.com/ea8f19dc-f99d-4e95-8700-4a9b2629a891/
 excerpt: 疫情对全球跨境投资影响分析
 categories:
-  - category: 投资参考
+- category: 投资参考
 ---
+
 ## 
 
 
